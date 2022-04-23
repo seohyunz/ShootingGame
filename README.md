@@ -1,28 +1,21 @@
 # ShootingGame 🚀
 
 ## Introduction
-  * Creation Period: 2021-09-08 ~ 11-05
   * Component: Language Python
-  * It is a game that features a simple pattern and operation in which a raccoon <br> jumps steps on a block, and climbs up.
+  * A game to score points by hitting meteorites with missiles
 ***
-### ⁘Main Screen
-![라쿠점프메인](https://user-images.githubusercontent.com/99002828/162566247-3088b42b-6712-43f8-ba13-582c29c78d84.png)
+### ⁘play Screen
+![unknown](https://user-images.githubusercontent.com/99002828/164879636-14419508-1962-45cd-a238-c725646bdd99.png)
 
-Shows the start, method, and end buttons.
+Use the -> and <- keys to move the fighter left and right
+Press the space bar to launch the missile and hit the meteorite
 
-### ⁘How to play
-![라쿤방법](https://user-images.githubusercontent.com/99002828/162566296-982745fa-b218-461f-b551-92b6a855d2cb.png)
+### ⁘Game Over-(1)
+![unknowen](https://user-images.githubusercontent.com/99002828/164879639-9a4a7237-27fc-49e1-afbd-f927cdb7caa2.png)
 
-Shows the button to return to the main and explains how to play the game.
+If you miss 3 or more meteorites, the game is over.
 
-### ⁘InGame
-![라쿠인게임](https://user-images.githubusercontent.com/99002828/162566340-aad89058-ce2f-4862-8032-bfcf0fa3d9a6.png)
+### ⁘Game Over-(2)
+![wwww](https://user-images.githubusercontent.com/99002828/164879641-7957300f-c6c3-48c6-b70c-a4251513aad5.png)
 
-You can move the raccoon with the right and left keys, you can step on the various floors in the game and climb up.
-The higher you go, the higher your score. If you fall to the floor, the game is over.
-
-### ⁘Game Over
-![라쿤게임종료](https://user-images.githubusercontent.com/99002828/162566442-291f1645-e27a-4423-acc9-6d86177bcbc7.png)
-
-A button to return to the main screen, a game over message, and your score are displayed.
-
+If it collides with a meteorite, the game is over immediately.
